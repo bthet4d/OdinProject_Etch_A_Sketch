@@ -1,0 +1,128 @@
+html{
+  width: 100%;
+  height: 100%;
+}
+
+body{
+  background-color: #FFFF40;
+  
+}
+
+h1{
+  text-align: center;
+}
+
+
+
+#colors{
+  float: right;
+  list-style: none;
+  margin-right: 2%;
+  
+}
+
+#colors li{
+  
+  margin-bottom: 10px;
+}
+
+.Pcolors{
+  width: 50px;
+  height: 50px;
+  float: left;
+  margin-bottom: 10px;
+  vertical-align: top;
+}
+
+#blue div{
+  background-color: blue;
+  margin: 0 auto;
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+}
+
+#yellow div{
+  background-color: yellow;
+  margin: 0 auto;
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+}
+
+#red div{
+  background-color: red;
+  margin: 0 auto;
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+}
+
+#green div{
+  background-color: green;
+  margin: 0 auto;
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+}
+
+#black div{
+  background-color: black;
+  margin: 0 auto;
+  width: 25px;
+  height: 25px;
+  border-radius: 25px;
+}
+#gridSize{
+  float: left;
+}
+#gridSize li{
+  vertical-align: top;
+  list-style: none;
+}
+
+.pencils{
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+#smallPencil{
+  background-color: black;
+  margin: 0 auto;
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+}
+
+#mediumPencil{
+  background-color: black;
+  margin: 0 auto;
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+}
+
+#largePencil{
+  background-color: black;
+  margin: 0 auto;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+}
+
+#container{
+    margin: 0 auto;
+    padding: 0;
+    width: 50%;
+    height: 50%;
+    background-color: #FFFFE0;
+    border: 1px solid black;
+    overflow: auto;
+    
+}
+.panel{
+    float: left;
+    margin: 0;
+}
+
